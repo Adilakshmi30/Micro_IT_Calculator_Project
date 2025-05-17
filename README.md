@@ -1,2 +1,2 @@
-# Micro_IT_Calculator_Project
+index.html
 A simple and responsive calculator built using HTML, CSS and JavaScript to perform basic arithmetic operationss
